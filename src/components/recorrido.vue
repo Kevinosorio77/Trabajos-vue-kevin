@@ -32,8 +32,8 @@ export default {
 
 <style>
 h3 {
-    color: black;
-    background-color: rgb(175, 223, 70);
+    color: rgb(224, 212, 212);
+    background-color: rgb(184, 137, 17);
     border-radius: 15px;
     padding: 10px;
     text-align: center;
@@ -46,7 +46,7 @@ ul {
 
 li {
     color: rgba(12, 193, 171, 0.9);
-    background-color: black;
+    background-color: rgb(247, 245, 245);
     border-radius: 15px;
     padding: 20px;
     margin: 10px;
