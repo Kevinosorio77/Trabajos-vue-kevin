@@ -8,6 +8,7 @@ edad: String,
 
 </script>
 
+
 <template>
   <h6>Soy el componente Hijo 2 me llamo cameru</h6>
   <p>{{ edad }}</p>
