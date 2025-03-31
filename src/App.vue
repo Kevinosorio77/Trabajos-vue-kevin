@@ -2,13 +2,15 @@
 import HelloWorld from './components/HelloWorld.vue'
 import recorrido from './components/recorrido.vue'
 import Horario from './components/Horario.vue';
+import Padre from './components/Props/Padre.vue';
 </script>
 
 <template>
-  
-<!-- <HelloWorld msg="Vite + Vue" -->
+
+<!-- <HelloWorld nombre=""/> -->
 <!-- <recorrido/> -->
-<Horario/>
+<!-- <Horario/> -->
+ <Padre/>
 </template>
 
 
